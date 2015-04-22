@@ -47,7 +47,8 @@
 	</div>
 
 	<footer role="contentinfo">
-		<p>Powered by <a href="https://github.com/madskristensen/FeedCollector">Feed Collector</a></p>
+		<p>Powered by <a href="https://github.com/sjkp/FeedCollector">Feed Collector</a></p>
+        <p>Add your azure blog, tweet me on <a href="https://twitter.com/simped">@simped</a></p>
 	</footer>
 </body>
 </html>
